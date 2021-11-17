@@ -1,0 +1,4 @@
+#garden {
+    display: grid;
+  grid-template: 7fr 50px / 20% 80%;
+  }
